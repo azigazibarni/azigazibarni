@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>hello there 👋</h1>
 
-<!--
-**azigazibarni/azigazibarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>about me:</h3>
 
-Here are some ideas to get you started:
+* based in Hungary 🇭🇺
+* highschool student ✏️
+* learning web-development 🌐
+* tea enthusiast 🍵
+* 🇭🇺 / 🇬🇧 / 🇯🇵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+check out my site <a href="https://azigazibarni.github.io/" target="_blank">here</a><br>
+
+<h3>skills</h3>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,git,raspberrypi,vscode)<br>
+
+<h3>socials</h3>
+
+![My Skills](https://skillicons.dev/icons?i=github,instagram,discord,gmail)
