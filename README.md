@@ -12,8 +12,8 @@ check out my site <a href="https://azigazibarni.github.io/" target="_blank">here
 
 <h3>skills</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,git,raspberrypi,vscode)<br>
+<a href="#top">![...](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,git,raspberrypi,vscode)</a><br>
 
 <h3>socials</h3>
 
-![My Skills](https://skillicons.dev/icons?i=github,instagram,discord,gmail)
+<a href="https://github.com/azigazibarni" target="_blank">![github](https://skillicons.dev/icons?i=github)</a> <a href="https://www.instagram.com/azigazibarni/" target="_blank">![instagram](https://skillicons.dev/icons?i=instagram)</a> <a href="https://discord.com/users/419142803642384386" target="_blank">![discord](https://skillicons.dev/icons?i=discord)</a>
