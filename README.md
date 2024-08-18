@@ -1,6 +1,5 @@
 <h1>hello there 👋</h1>
-<i>/subakh ul kuhar/</i><br>
-<br>
+
 check out my site <a href="https://azigazibarni.github.io/">here</a><br>
 
 <h3>skills</h3>
